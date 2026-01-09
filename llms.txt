@@ -1,31 +1,53 @@
-# Reed Vending | Vending machine services | Alexandria VA
+URL: https://reedelectrical.net/
+# Reed Electrical Services
+> Licensed electrical contractor in Palos Hills, IL, providing residential and commercial electrical services including installations, repairs, panel upgrades, wiring, lighting, and EV charger installation.
+> This file lists LLM-ready summaries of our pages, including short Q&A for context.
 
-Need vending in DC, MD or VA? Reed Vending installs and services snack, drink & combo machines and more with cashless pay. Call (571) 435-3002.
+URL: https://reedelectrical.net/residential/
+## Residential Electrical Services
+- Residential Electrical Services in Palos Hills, IL. Offering residential electrical services to improve safety, functionality, and comfort in homes throughout the South Chicagoland area.
+- **Q:** What types of residential electrical work can be handled by a licensed electrician?
+- **A:** Reed Electrical Services handles a full range of residential electrical work, including wiring upgrades, panel replacements, lighting installations, ceiling fan installs, EV charger installation, and troubleshooting electrical issues.
+- **Q:** When should a homeowner consider upgrading their electrical panel?
+- **A:** Reed Electrical Services often recommends panel upgrades when homeowners experience frequent breaker trips, use outdated fuse panels, add major appliances, or plan home renovations that increase electrical demand.
 
-## Company Information
-- [About](https://www.reedvending.com/about): This page provides an overview of Reed Vending, detailing the company's mission and values in the vending machine industry.
+URL: https://reedelectrical.net/commercial/
+## Commercial Electrical Services
+- Commercial Electrical Services in Palos Hills, IL. Providing commercial electrical services for businesses, including installations, upgrades, inspections, and solutions to ensure safe, efficient, and code‑compliant electrical systems.
+- **Q:** How can commercial electrical upgrades benefit a business?
+- **A:** Upgrades like energy-efficient lighting, panel enhancements, and up-to-date wiring from Reed Electrical Services can improve safety, reduce energy costs, and minimize disruptions to business operations.
+- **Q:** What commercial electrical services are available for businesses?
+- **A:** Reed Electrical Services provides comprehensive commercial electrical work, such as wiring for new construction, lighting upgrades, panel upgrades, outlet and switch installations, and more.
 
-## Services
-### Services Offered
-- [Services](https://www.reedvending.com/services): This section outlines the various vending services provided by Reed Vending, including installation and maintenance of snack, drink, and combo machines.
+URL: https://www.reedvending.com/about
+##About
+- This page provides an overview of Reed Vending, detailing the company's mission and values in the vending machine industry.
 
-## Locations & Vending Machine Options
-### Alexandria, VA
-- [Smart Vending Machines | Alexandria, VA](https://www.reedvending.com/vending-machines-alexandria-va): Information about the smart vending machines available in Alexandria, VA, highlighting their features and benefits.
+URL: https://www.reedvending.com/services
+##Services
+- This section outlines the various vending services provided by Reed Vending, including installation and maintenance of snack, drink, and combo machines.
 
-### Springfield, VA
-- [Vending Machines | Springfield, VA](https://www.reedvending.com/vending-machines-springfield-va): Details on the vending machine offerings in Springfield, VA, including types of machines and services.
+URL: https://www.reedvending.com/vending-machines-alexandria-va
+##Smart Vending Machines | Alexandria, VA
+- Information about the smart vending machines available in Alexandria, VA, highlighting their features and benefits.
 
-### Oxon Hill, MD
-- [Smart Vending Machines | Oxon Hill, MD](https://www.reedvending.com/smart-vending-machines-oxon-md): Overview of smart vending machine services available in Oxon Hill, MD, focusing on technology and convenience.
+URL: https://www.reedvending.com/vending-machines-springfield-va
+##Vending Machines | Springfield, VA
+- Details on the vending machine offerings in Springfield, VA, including types of machines and services.
 
-### Washington, DC
-- [Smart Vending Machines | Washington, DC](https://www.reedvending.com/vending-machine-services-washinton-dc): Description of smart vending machine options in Washington, DC, emphasizing modern payment solutions and product variety.
+URL: https://www.reedvending.com/smart-vending-machines-oxon-md
+##Smart Vending Machines | Oxon Hill, MD
+- Overview of smart vending machine services available in Oxon Hill, MD, focusing on technology and convenience.
 
-### Arlington, VA
-- [Vending Machine Services | Arlington, VA](https://www.reedvending.com/vending-machine-services-arlington-va): Information on vending machine services provided in Arlington, VA, including installation and maintenance specifics.
+URL: https://www.reedvending.com/vending-machine-services-washinton-dc
+##Smart Vending Machines | Washington, DC
+- Description of smart vending machine options in Washington, DC, emphasizing modern payment solutions and product variety.
 
-## Contact Information
-- [Contact](https://www.reedvending.com/contact): Here, you can find the contact details for Reed Vending, including phone and email options for inquiries.
-- [Call Us Today: (571) 435-3002](tel:(571)435-3002): Direct contact number for immediate assistance or service requests.
-- [Email: reedvending41@gmail.com](mailto:reedvending41@gmail.com): Email address for inquiries, service requests, or further information.
+URL: https://www.reedvending.com/vending-machine-services-arlington-va
+##Vending Machine Services | Arlington, VA
+- Information on vending machine services provided in Arlington, VA, including installation and maintenance specifics.
+
+URL: https://www.reedvending.com/contact
+##Contact
+- Here, you can find the contact details for Reed Vending, including phone and email options for inquiries.
+
